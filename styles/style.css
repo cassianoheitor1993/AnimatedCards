@@ -1,5 +1,5 @@
 :root {
-    --squareSide: 300px;
+    --squareSide: 210px;
 }
 
 div[class^="element"] {
